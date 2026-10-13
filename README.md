@@ -2,7 +2,6 @@
 <html lang="en">
     <head>
         <link rel="stylesheet" href="style.css">
-        <title>Fnaf timeline</title>
     </head>
     <body>
         <h1 title="hell yeah :)">Super duper cool fnaf timeline</h1>
