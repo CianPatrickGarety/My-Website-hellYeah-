@@ -3,7 +3,6 @@
 <html lang="en">
     <head>
         <link rel="stylesheet" href="style.css">
-        <title>My Cool Website</title>
     </head>
     <body>
         <h1 title="hell yeah :)">Welcome to my Cool Website</h1>
