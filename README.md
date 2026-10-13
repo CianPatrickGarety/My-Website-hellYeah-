@@ -1,21 +1,2 @@
 # My-Website-hellYeah-
-<html lang="en">
-    <head>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <h1 title="hell yeah :)">Welcome to my Cool Website</h1>
-        <p>haiii :0.
-            <br> I'm PrezzGrass and this is my website >:P
-        </p>
-        <h2><b>Who am I?</b></h2>
-        <p>As i've already said, I'm PrezzGrass and I'm a total sigma.<br>I am learning how to code :0000 and trying to learn python :(<br>I learned a little html and css in school :)))) but forgor most of it :(</p>
-        <br>
-        [The FNAF timeline](fnaf info.html)
-        <h2 title ="yeah i KNOW its the same thing, sybau">A little about me</h2>
-        <p>As for what i've made. not much:</p>
-        <ul>
-            <li title="idk how to get it here, any help would be appreciated">A simple snake game in python</li>
-        </ul>
-    </body>
-</html>
+haiii, a very basic website about me (and the fnaf lore cause idk)
