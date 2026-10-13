@@ -16,9 +16,7 @@
         <h2 title ="yeah i KNOW its the same thing, sybau">A little about me</h2>
         <p>As for what i've made. not much:</p>
         <ul>
-            <li>
-                <a href="fnaf info.html" target="_blank">A simple snake game in python</a>
-            </li>
+            <li title="idk how to get it here, any help would be appreciated">A simple snake game in python</li>
         </ul>
     </body>
 </html>
