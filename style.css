@@ -8,8 +8,18 @@ h1 {
     text-decoration-line: underline;
   
 }
-p {
+
+.essay {
+    color:black;
+}
+
+.quote {
+    margin-left: 80px;
+}
+
+.general {
     color: red;
+    z-index: 0;
 }
 
 h2 {
@@ -17,4 +27,48 @@ h2 {
     border: 2px solid rgb(22, 83, 92);
     color: black;
     text-decoration-line: underline;
+    z-index: 2;
+}
+
+h3 {
+    color:purple;
+}
+
+.Boutme {
+    color:purple;
+    background-color: white;
+}
+
+.div1 {
+  background: red;
+}
+
+.div2 {
+  background: yellow;
+}
+
+.div3 {
+  background: green;
+}
+
+img {
+  float:right;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}
+
+ul {
+    color:green;
+    float:left;
+    
+}
+
+#essay {
+    color:black;
+}
+
+#quote {
+    color:red;
 }
