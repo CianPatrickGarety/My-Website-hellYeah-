@@ -9,12 +9,13 @@ h1 {
   
 }
 
-.essay {
+#essay {
     color:black;
 }
 
-.quote {
+#quote {
     margin-left: 80px;
+    color:red;
 }
 
 .general {
@@ -65,10 +66,19 @@ ul {
     
 }
 
-#essay {
-    color:black;
+.status-box {
+    border: 2px dashed #bf23a5;
+    background: #1a1019;
+    padding: 16px;
+    margin: 20px 0;
+    text-align: left;
 }
 
-#quote {
-    color:red;
+.status-box h2 {
+    color: #bf24a5;
+    font-size: 1.2rem;
+}
+
+.status-box p {
+    color: red;
 }
